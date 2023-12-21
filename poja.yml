@@ -15,7 +15,7 @@ ts_client_api_url_env_var_name: ''
 ts_client_default_openapi_server_url: ''
 with_database: sqlite
 with_gen_clients: 'false'
-with_own_vpc: 'false'
+with_own_vpc: 'true'
 with_swagger_ui: 'false'
 worker_batch: 5
 worker_memory: 1024
